@@ -1,0 +1,31 @@
+{
+  "name": "vanilla-js-todo-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kashif1Naqvi/Vanilla-Js-Todo-.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kashif1Naqvi/Vanilla-Js-Todo-/issues"
+  },
+  "homepage": "https://github.com/Kashif1Naqvi/Vanilla-Js-Todo-#readme",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.26.3"
+  }
+}
